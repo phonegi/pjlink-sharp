@@ -1,0 +1,5 @@
+C:\Users\david_buler\Documents\GitHub\pjlink-sharp\PJLink\bin\AnyCPU\Debug\PJLink.dll
+C:\Users\david_buler\Documents\GitHub\pjlink-sharp\PJLink\bin\AnyCPU\Debug\PJLink.pdb
+C:\Users\david_buler\Documents\GitHub\pjlink-sharp\PJLink\obj\Debug\PJLink.csprojResolveAssemblyReference.cache
+C:\Users\david_buler\Documents\GitHub\pjlink-sharp\PJLink\obj\Debug\PJLink.dll
+C:\Users\david_buler\Documents\GitHub\pjlink-sharp\PJLink\obj\Debug\PJLink.pdb
